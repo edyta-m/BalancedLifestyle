@@ -1,5 +1,3 @@
-An app that promotes a balanced lifestyle by keeping track of a user's progress in the 5 main aspects of health.
-
 User Stories
 
 As a consumer, I want a secure login so that my health information is kept confidential.
