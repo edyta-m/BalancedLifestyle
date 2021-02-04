@@ -1,0 +1,25 @@
+An app that promotes a balanced lifestyle by keeping track of a user's progress in the 5 main aspects of health.
+
+User Stories
+
+As a consumer, I want a secure login so that my health information is kept confidential.
+
+As a consumer, I want a visual representation of my current balanced health lifestyle so that I can easily interpret where I’m at with my balanced lifestyle. (cycle chart like in Big Brain Academy)
+
+As a consumer, I want to easily record my progress so that I don’t have to waste my time.
+
+As a consumer, I want to have incentives to guide me on how to improve my health aspects so that I can improve my health life cycle balance.
+
+As a consumer, I want simple tasks to complete so that I can continuously see progress.
+
+As a consumer, I want tasks that I can do to maintain my health so that I can keep using the app to better my healt.
+
+As a consumer, I want a visually appealing interface so that I enjoy using the app.
+
+As a consumer, I want accuracy so that the app is more efficient in processing my health cycle.
+
+As a consumer, I want challenges so that the tasks don’t feel too easy and have me lose interest in improving my health.
+
+As a consumer, I want to have a profile page where I can see my recent progress and future goals so that I can keep record of how I’m doing.
+
+As a consumer, I want to have rewards to either spruce up my profile or other features to get me to work on my health so that I stay interested.
